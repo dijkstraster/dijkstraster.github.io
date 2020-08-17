@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Game of Life # title of your post
-featured-img: # optional
+featured-img: 01-cell # optional
 ---
 
 # Game of Life
