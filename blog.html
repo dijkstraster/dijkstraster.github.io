@@ -1,0 +1,14 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+[comment]: <> (featured-img: blog-lg)
+---
+
+<div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+    {% for post in site.posts %}
+        {% if post.type == 'blog' %}
+            {% include card.html %}
+        {% endif %}
+    {% endfor %}
+</div>
