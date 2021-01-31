@@ -1,1 +1,1 @@
-Static personal website using [https://github.com/janczizikow/sleek](Sleek theme), by Jan Czizikow.
+Static personal website using [Sleek](https://github.com/janczizikow/sleek), by Jan Czizikow.
