@@ -2,7 +2,7 @@
 title: Judith # your site title
 author: judith2v # You :P
 description: > # Meta description of Homepage
-  Website where I show my projects or talk about my hobbies
+  My personal website
 # baseurl: "/sleek" # the subpath of your site, e.g. /blog
 url: "https://judithvz.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -20,7 +20,7 @@ navigation: # Navigation links
   - {name: 'Blog', link: '/blog'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Diego, si lees esto dirígete inmediatamente a mi habitación
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
