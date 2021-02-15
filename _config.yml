@@ -20,7 +20,7 @@ navigation: # Navigation links
   - {name: 'Blog', link: '/blog'}
 
 tagline: >
-  Diego, si lees esto dirígete inmediatamente a mi habitación
+  :)
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
